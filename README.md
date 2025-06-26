@@ -1,9 +1,9 @@
-# Calculator
+# 🧮 Calculator
 
 작은 프론트엔드 프로젝트로 제작한 계산기입니다.  
 HTML, CSS, JavaScript를 사용하여 구현하였습니다.
 
-## 주요 기능
+## ⭐️ 주요 기능
 
 - 할 일 추가 및 삭제
 - 완료한 항목 표시
@@ -18,5 +18,5 @@ HTML, CSS, JavaScript를 사용하여 구현하였습니다.
 
 ## 📸 화면 예시
 
-
+![screenshot](./screenshot3.png)
 
